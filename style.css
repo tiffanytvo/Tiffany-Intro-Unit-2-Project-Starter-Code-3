@@ -1,0 +1,88 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: black;
+    color: white;
+    padding: 128px 16px;
+}
+.title{
+  font-family: 'Calistoga', cursive;
+  background-color: red;
+  
+}
+.headerpic{
+  width:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sec1{
+  color:#F6D21F;
+  font-family: 'Calistoga', cursive;
+}
+
+.sec2{
+  color:#F6D21F;
+  font-family: 'Calistoga', cursive;
+}
+
+.sec3{
+  color:#F6D21F;
+  font-family: 'Calistoga', cursive;
+  
+}
+
+.pic1{
+  width:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.pic2{
+  width:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+body{
+  background-color:black;
+}
+p{
+  color:white;
+  font-family: 'Inter', sans-serif;
+}
+.video1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color:white;
+  font-family: 'Inter', sans-serif;
+}
+.section{
+  border: 4px solid #F6D21F;
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar{
+  margin:20px;
+  background:red;
+  padding:20px;
+  font-family: 'Inter', sans-serif;
+  color:white;
+  
+  
+  
+}
+.parentnav{
+  display:flex;
+  justify-content: center;
+}
+.link{
+  color: red;
+  font-family: 'Inter', sans-serif;
+}
